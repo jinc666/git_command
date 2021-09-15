@@ -1,2 +1,4 @@
 123
 qwe
+
+编辑文件上传github   然后在jenkins构建
