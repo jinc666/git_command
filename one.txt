@@ -2,3 +2,6 @@
 qwe
 
 编辑文件上传github   然后在jenkins构建
+
+
+好久没尝试了
